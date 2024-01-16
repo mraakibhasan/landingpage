@@ -14,6 +14,7 @@ input {
 }
 body {
   width: 144rem;
+ overflow-x:hidden !important;
 }.landing-page-design-3MW {
   width: 100%;
   overflow: hidden;
